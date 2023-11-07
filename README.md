@@ -62,7 +62,7 @@ The Models used for this Classsification problem are
 
 93% accuracy with Support Vector Machine,
 
-Even though all the models gave ccuracy rate above 90%, Logistic regression is sligtly more accurate than other models. Hence for this, Logistic Regression is best model.
+Even though all the models gave ccuracy rate above 90%, LRandom Forest model is sligtly more accurate than other models. Hence for this, Random Forest model is best model.
 
 Overall rating and Value for money contributes to a model's prediction whether a passenger will recommened a particular airline to their friends.
 
