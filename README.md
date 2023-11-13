@@ -52,11 +52,11 @@ The Models used for this Classsification problem are
 
 ### Accuracy of each model:
 
-94% accuracy with Logistic Regression,
+93.70% accuracy with Logistic Regression,
 
 92% accuracy with Decision Tree Model,
 
-93% accuracy with Random Forest model,
+93.74% accuracy with Random Forest model,
 
 93% accuracy with K-Nearest Neighbor Model,
 
